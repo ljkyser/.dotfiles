@@ -1,0 +1,12 @@
+[user]
+	name = LJ Kyser
+	email = lj.kyser@gmail.com
+
+[github]
+	user = ljkyser
+
+[core]
+	excludesfile = ~/.gitignore_global
+
+[push]
+	default = simple
