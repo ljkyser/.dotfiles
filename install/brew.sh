@@ -14,6 +14,8 @@ brew upgrade
 apps=(
   bash-completion2
   coreutils
+  dockutil
+  gnu-sed --with-default-names
   hub
   wget
 )
